@@ -1,0 +1,2303 @@
+{
+  "repos": {
+    "facebook/mysql-5.6": {
+      "paths": [
+        {
+          "path": "mysql-test/r/validate_password_plugin.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/r/validate_password_plugin.result"
+        },
+        {
+          "path": "mysql-test/t/validate_password_plugin.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/0475ffde3e8be035ab4cfce1f04948470604b362/mysql-test/t/validate_password_plugin.test"
+        },
+        {
+          "path": "mysql-test/r/func_crypt.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/r/func_crypt.result"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/r/password_expired.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/r/password_expired.result"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/r/key_value_auth.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/r/key_value_auth.result"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/t/password_expired.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/t/password_expired.test"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/r/mysql_native_plugin.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/r/mysql_native_plugin.result"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/r/mysql_sha256_plugin.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/r/mysql_sha256_plugin.result"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/r/access_credential_control.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/r/access_credential_control.result"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/t/key_value_auth.test_old",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/t/key_value_auth.test_old"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/r/mysql_old_plugin.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/r/mysql_old_plugin.result"
+        },
+        {
+          "path": "sql/password.c",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/sql/password.c"
+        },
+        {
+          "path": "mysql-test/r/plugin_auth_sha256.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/r/plugin_auth_sha256.result"
+        },
+        {
+          "path": "plugin/password_validation/validate_password.cc",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/plugin/password_validation/validate_password.cc"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/t/key_value_auth.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/t/key_value_auth.test"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/t/mysql_old_passwords.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/t/mysql_old_passwords.test"
+        },
+        {
+          "path": "mysql-test/suite/innodb_stress/r/innodb_log_compressed_pages_crash_inserts.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/innodb_stress/r/innodb_log_compressed_pages_crash_inserts.result"
+        },
+        {
+          "path": "mysql-test/suite/innodb_stress/r/innodb_change_compression_level_crash.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/innodb_stress/r/innodb_change_compression_level_crash.result"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/r/mysql_old_passwords.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/r/mysql_old_passwords.result"
+        },
+        {
+          "path": "mysql-test/t/func_crypt.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/t/func_crypt.test"
+        },
+        {
+          "path": "mysql-test/suite/innodb_stress/r/innodb_log_compressed_pages_crash_deletes.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/innodb_stress/r/innodb_log_compressed_pages_crash_deletes.result"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/t/mysql_old_plugin.test_old",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/t/mysql_old_plugin.test_old"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/t/access_credential_control.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/t/access_credential_control.test"
+        },
+        {
+          "path": "mysql-test/t/plugin_auth_sha256_tls.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/t/plugin_auth_sha256_tls.test"
+        },
+        {
+          "path": "mysql-test/r/plugin_auth_sha256_tls.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/08426f132d8c81dfd5641b4da6a3c265c8c604a5/mysql-test/r/plugin_auth_sha256_tls.result"
+        },
+        {
+          "path": "mysql-test/t/plugin_auth_sha256_server_default.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/t/plugin_auth_sha256_server_default.test"
+        },
+        {
+          "path": "mysql-test/r/plugin_auth_sha256_server_default_tls.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/r/plugin_auth_sha256_server_default_tls.result"
+        },
+        {
+          "path": "mysql-test/r/plugin_auth_sha256_server_default.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/r/plugin_auth_sha256_server_default.result"
+        },
+        {
+          "path": "mysql-test/r/connect.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/r/connect.result"
+        },
+        {
+          "path": "mysql-test/suite/sys_vars/r/secure_auth_func.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/sys_vars/r/secure_auth_func.result"
+        },
+        {
+          "path": "mysql-test/suite/sys_vars/r/report_password_basic.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/sys_vars/r/report_password_basic.result"
+        },
+        {
+          "path": "scripts/mysql_secure_installation.pl.in",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/scripts/mysql_secure_installation.pl.in"
+        },
+        {
+          "path": "mysql-test/suite/innodb_stress/r/innodb_log_compressed_pages_crash_updates.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/innodb_stress/r/innodb_log_compressed_pages_crash_updates.result"
+        },
+        {
+          "path": "mysql-test/t/plugin_auth_sha256_server_default_tls.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/t/plugin_auth_sha256_server_default_tls.test"
+        },
+        {
+          "path": "mysql-test/t/plugin_auth_sha256.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/t/plugin_auth_sha256.test"
+        },
+        {
+          "path": "mysql-test/suite/sys_vars/r/disconnect_on_expired_password_basic.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/sys_vars/r/disconnect_on_expired_password_basic.result"
+        },
+        {
+          "path": "mysql-test/r/disconnect_on_expired_password_off.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/r/disconnect_on_expired_password_off.result"
+        },
+        {
+          "path": "scripts/mysql_secure_installation.sh",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/scripts/mysql_secure_installation.sh"
+        },
+        {
+          "path": "mysql-test/t/disconnect_on_expired_password_off.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/t/disconnect_on_expired_password_off.test"
+        },
+        {
+          "path": "mysql-test/r/disconnect_on_expired_password_default.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/r/disconnect_on_expired_password_default.result"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/t/mysql_native_plugin.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/t/mysql_native_plugin.test"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/t/mysql_sha256_plugin.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/t/mysql_sha256_plugin.test"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/t/server_withoutssl_client_withoutssl.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/t/server_withoutssl_client_withoutssl.test"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/t/server_withssl_client_withoutssl.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/t/server_withssl_client_withoutssl.test"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/t/mysql_old_plugin.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/t/mysql_old_plugin.test"
+        },
+        {
+          "path": "mysql-test/t/disconnect_on_expired_password_default.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/t/disconnect_on_expired_password_default.test"
+        },
+        {
+          "path": "mysql-test/suite/rpl/r/rpl_master_connection.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/rpl/r/rpl_master_connection.result"
+        },
+        {
+          "path": "mysql-test/suite/rpl/t/rpl_master_connection.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/rpl/t/rpl_master_connection.test"
+        },
+        {
+          "path": "mysql-test/suite/rpl/r/rpl_test_framework.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/rpl/r/rpl_test_framework.result"
+        },
+        {
+          "path": "mysql-test/suite/sys_vars/t/secure_auth_func.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/sys_vars/t/secure_auth_func.test"
+        },
+        {
+          "path": "mysql-test/suite/binlog/r/binlog_rewrite.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/binlog/r/binlog_rewrite.result"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/r/server_withoutssl_client_withssl.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/r/server_withoutssl_client_withssl.result"
+        },
+        {
+          "path": "include/password.h",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/include/password.h"
+        },
+        {
+          "path": "mysql-test/t/connect.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/t/connect.test"
+        },
+        {
+          "path": "mysql-test/t/plugin_auth_sha256_2.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/t/plugin_auth_sha256_2.test"
+        },
+        {
+          "path": "include/mysql/plugin_validate_password.h",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/include/mysql/plugin_validate_password.h"
+        },
+        {
+          "path": "mysql-test/r/plugin_auth_qa_2.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/r/plugin_auth_qa_2.result"
+        },
+        {
+          "path": "mysql-test/include/have_validate_password_plugin.inc",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/include/have_validate_password_plugin.inc"
+        },
+        {
+          "path": "mysql-test/r/rewrite_general_log.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/r/rewrite_general_log.result"
+        },
+        {
+          "path": "plugin/auth/test_plugin.c",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/plugin/auth/test_plugin.c"
+        },
+        {
+          "path": "mysql-test/suite/connection_control/r/status_variables.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/connection_control/r/status_variables.result"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/r/server_withoutssl_client_withoutssl.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/r/server_withoutssl_client_withoutssl.result"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/r/server_withssl_client_withoutssl.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/r/server_withssl_client_withoutssl.result"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/r/server_withssl_client_withssl.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/r/server_withssl_client_withssl.result"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/r/mysql_no_login.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/r/mysql_no_login.result"
+        },
+        {
+          "path": "xtrabackup/test/t/bug740489.sh",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/xtrabackup/test/t/bug740489.sh"
+        },
+        {
+          "path": "mysql-test/suite/sys_vars/t/report_password_basic.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/sys_vars/t/report_password_basic.test"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/t/server_withoutssl_client_withssl.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/t/server_withoutssl_client_withssl.test"
+        },
+        {
+          "path": "mysql-test/suite/auth_sec/t/server_withssl_client_withssl.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/auth_sec/t/server_withssl_client_withssl.test"
+        },
+        {
+          "path": "plugin/auth/dialog.c",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/plugin/auth/dialog.c"
+        },
+        {
+          "path": "mysql-test/suite/rpl/r/rpl_user.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/rpl/r/rpl_user.result"
+        },
+        {
+          "path": "mysql-test/r/rewrite_slow_log.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/r/rewrite_slow_log.result"
+        },
+        {
+          "path": "mysql-test/suite/sys_vars/t/disconnect_on_expired_password_basic.test",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/sys_vars/t/disconnect_on_expired_password_basic.test"
+        },
+        {
+          "path": "mysql-test/suite/connection_control/r/connection_delay_info_schema_view.result",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/mysql-test/suite/connection_control/r/connection_delay_info_schema_view.result"
+        },
+        {
+          "path": "scripts/mysql_security_commands.sql",
+          "score": 1,
+          "url": "https://github.com/facebook/mysql-5.6/blob/42a5444d52f264682c7805bf8117dd884095c476/scripts/mysql_security_commands.sql"
+        }
+      ],
+      "code": {
+        "password": 75
+      },
+      "codeCount": 1,
+      "pathCount": 75
+    },
+    "facebook/fbthrift": {
+      "paths": [
+        {
+          "path": "thrift/compiler/test/fixtures/basic-annotations/gen-swift/test/fixtures/basicannotations/SecretStruct.java",
+          "score": 1,
+          "url": "https://github.com/facebook/fbthrift/blob/71372bd652eac04eb2a03c4b68654d65e33c4544/thrift/compiler/test/fixtures/basic-annotations/gen-swift/test/fixtures/basicannotations/SecretStruct.java"
+        },
+        {
+          "path": "thrift/compiler/test/fixtures/basic-annotations/gen-java/test/fixtures/basicannotations/SecretStruct.java",
+          "score": 1,
+          "url": "https://github.com/facebook/fbthrift/blob/d10385b2cf10b1aa463992596d51b90736a81f4a/thrift/compiler/test/fixtures/basic-annotations/gen-java/test/fixtures/basicannotations/SecretStruct.java"
+        },
+        {
+          "path": "thrift/compiler/test/fixtures/basic-annotations/gen-android/SecretStruct.java",
+          "score": 1,
+          "url": "https://github.com/facebook/fbthrift/blob/d10385b2cf10b1aa463992596d51b90736a81f4a/thrift/compiler/test/fixtures/basic-annotations/gen-android/SecretStruct.java"
+        }
+      ],
+      "code": {
+        "password": 3
+      },
+      "codeCount": 1,
+      "pathCount": 3
+    },
+    "facebook/openbmc": {
+      "paths": [
+        {
+          "path": "tools/bmc-access/bmc-lib",
+          "score": 1,
+          "url": "https://github.com/facebook/openbmc/blob/5d9b1d811bf6f9ef5e562467d93a91064c43ba7b/tools/bmc-access/bmc-lib"
+        },
+        {
+          "path": "tools/bmc-access/README",
+          "score": 1,
+          "url": "https://github.com/facebook/openbmc/blob/5d9b1d811bf6f9ef5e562467d93a91064c43ba7b/tools/bmc-access/README"
+        }
+      ],
+      "code": {
+        "password": 2
+      },
+      "codeCount": 1,
+      "pathCount": 2
+    },
+    "facebook/hhvm": {
+      "paths": [
+        {
+          "path": "hphp/runtime/ext/password/ext_password.php",
+          "score": 1,
+          "url": "https://github.com/facebook/hhvm/blob/a69ba43e2347390a1e899c3dd97c39281718d64d/hphp/runtime/ext/password/ext_password.php"
+        },
+        {
+          "path": "hphp/test/zend/good/ext/standard/tests/password/password_bcrypt_errors.php",
+          "score": 1,
+          "url": "https://github.com/facebook/hhvm/blob/52839841f57520f7267b5c8361d0aef23cc16cea/hphp/test/zend/good/ext/standard/tests/password/password_bcrypt_errors.php"
+        },
+        {
+          "path": "hphp/test/zend/good/ext/standard/tests/password/password_bcrypt_errors.php.expectf",
+          "score": 1,
+          "url": "https://github.com/facebook/hhvm/blob/5051d50f78fe9bbb0c0bf0606e736d95f7cf85fe/hphp/test/zend/good/ext/standard/tests/password/password_bcrypt_errors.php.expectf"
+        },
+        {
+          "path": "hphp/test/slow/password/hash.php",
+          "score": 1,
+          "url": "https://github.com/facebook/hhvm/blob/570fedd367f0debb5479b4a12e12c98b071a9847/hphp/test/slow/password/hash.php"
+        },
+        {
+          "path": "hphp/hack/hhi/stdlib/builtins_password.hhi",
+          "score": 1,
+          "url": "https://github.com/facebook/hhvm/blob/0bff6f14a74d1239b3b4ee881be36ce0d8d93551/hphp/hack/hhi/stdlib/builtins_password.hhi"
+        },
+        {
+          "path": "hphp/test/zend/good/ext/standard/tests/password/password_hash.php",
+          "score": 1,
+          "url": "https://github.com/facebook/hhvm/blob/52839841f57520f7267b5c8361d0aef23cc16cea/hphp/test/zend/good/ext/standard/tests/password/password_hash.php"
+        }
+      ],
+      "code": {
+        "password": 6
+      },
+      "codeCount": 1,
+      "pathCount": 6
+    },
+    "facebook/fresco": {
+      "paths": [
+        {
+          "path": "release-sonatype.gradle",
+          "score": 1,
+          "url": "https://github.com/facebook/fresco/blob/252f2d933703833ede24ac2bf919c286c7019a81/release-sonatype.gradle"
+        },
+        {
+          "path": "gradle/bintray.gradle",
+          "score": 1,
+          "url": "https://github.com/facebook/fresco/blob/252f2d933703833ede24ac2bf919c286c7019a81/gradle/bintray.gradle"
+        }
+      ],
+      "code": {
+        "password": 2
+      },
+      "codeCount": 1,
+      "pathCount": 2
+    },
+    "facebook/wangle": {
+      "paths": [
+        {
+          "path": "wangle/ssl/PasswordInFileFactory.cpp",
+          "score": 1,
+          "url": "https://github.com/facebook/wangle/blob/31e3cc815f56512f870ac075df75b923ec50f307/wangle/ssl/PasswordInFileFactory.cpp"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "facebook/folly": {
+      "paths": [
+        {
+          "path": "folly/io/async/PasswordInFile.h",
+          "score": 1,
+          "url": "https://github.com/facebook/folly/blob/6794edc6a15278b984ed44dc53633234b99f8d75/folly/io/async/PasswordInFile.h"
+        },
+        {
+          "path": "folly/io/async/PasswordInFile.cpp",
+          "score": 1,
+          "url": "https://github.com/facebook/folly/blob/d2c64d94c7e892925a02a080c886ab3df3f5c937/folly/io/async/PasswordInFile.cpp"
+        }
+      ],
+      "code": {
+        "password": 2
+      },
+      "codeCount": 1,
+      "pathCount": 2
+    },
+    "facebook/litho": {
+      "paths": [
+        {
+          "path": "gradle/bintray.gradle",
+          "score": 1,
+          "url": "https://github.com/facebook/litho/blob/bad7023f2668882a9d01525676d8ef868ce06f09/gradle/bintray.gradle"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "facebook/Recipes-for-AutoPkg": {
+      "paths": [
+        {
+          "path": "Xcode/AppleDataGatherer.py",
+          "score": 1,
+          "url": "https://github.com/facebook/Recipes-for-AutoPkg/blob/a7ef4c46bbfe5c73825c9bff184f2bb8205e2830/Xcode/AppleDataGatherer.py"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "facebook/hermes": {
+      "paths": [
+        {
+          "path": "first-party/fbjni/gradle/bintray.gradle",
+          "score": 1,
+          "url": "https://github.com/facebook/hermes/blob/720707283fe3aa215090f78b910799731d16eb58/first-party/fbjni/gradle/bintray.gradle"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "facebook/flipper": {
+      "paths": [
+        {
+          "path": "gradle/bintray.gradle",
+          "score": 1,
+          "url": "https://github.com/facebook/flipper/blob/54ebb44ddab24a0b157701d7c69af469fd5c4769/gradle/bintray.gradle"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "facebook/TextLayoutBuilder": {
+      "paths": [
+        {
+          "path": "release-sonatype.gradle",
+          "score": 1,
+          "url": "https://github.com/facebook/TextLayoutBuilder/blob/40881d7368474eaafff582a54345a60995610594/release-sonatype.gradle"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "facebook/openbmc-linux": {
+      "paths": [
+        {
+          "path": "security/keys/encrypted-keys/ecryptfs_format.c",
+          "score": 1,
+          "url": "https://github.com/facebook/openbmc-linux/blob/20ab350cdf88dcff3bff4b44ee72db96c593c380/security/keys/encrypted-keys/ecryptfs_format.c"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "facebook/yoga": {
+      "paths": [
+        {
+          "path": "gradle/bintray.gradle",
+          "score": 1,
+          "url": "https://github.com/facebook/yoga/blob/42bba1089499d69aae72085450a5ccf1a5d71f5f/gradle/bintray.gradle"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "facebook/buck": {
+      "paths": [
+        {
+          "path": "src/com/facebook/buck/file/downloader/impl/RemoteMavenDownloader.java",
+          "score": 1,
+          "url": "https://github.com/facebook/buck/blob/c56e56a5977550f05feaf7a70d271f5508faa195/src/com/facebook/buck/file/downloader/impl/RemoteMavenDownloader.java"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "facebook/react": {
+      "paths": [
+        {
+          "path": "fixtures/dom/src/components/fixtures/password-inputs/index.js",
+          "score": 1,
+          "url": "https://github.com/facebook/react/blob/714c78d5a16747d0f7f8179b66aacbd10ec9d3dd/fixtures/dom/src/components/fixtures/password-inputs/index.js"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "github/codeql": {
+      "paths": [
+        {
+          "path": "javascript/ql/test/query-tests/Security/CWE-312/CleartextStorage.expected",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/2a3980222b27344105a8c67ed9fd8cc3f45020b7/javascript/ql/test/query-tests/Security/CWE-312/CleartextStorage.expected"
+        },
+        {
+          "path": "javascript/ql/test/query-tests/Security/CWE-312/passwords.js",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/77c869f5289b5fe7fe4133271e880aa8db26a3c8/javascript/ql/test/query-tests/Security/CWE-312/passwords.js"
+        },
+        {
+          "path": "javascript/ql/test/query-tests/Security/CWE-312/CleartextLogging.expected",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/6c2842bd49bfb216b55aa5393ece566eb807c1ea/javascript/ql/test/query-tests/Security/CWE-312/CleartextLogging.expected"
+        },
+        {
+          "path": "python/ql/test/query-tests/Security/CWE-312/CleartextStorage.expected",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/cb94e7db72490aa32d5326019320a014f056101b/python/ql/test/query-tests/Security/CWE-312/CleartextStorage.expected"
+        },
+        {
+          "path": "javascript/ql/test/query-tests/Security/CWE-916/InsufficientPasswordHash.expected",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/2a3980222b27344105a8c67ed9fd8cc3f45020b7/javascript/ql/test/query-tests/Security/CWE-916/InsufficientPasswordHash.expected"
+        },
+        {
+          "path": "csharp/ql/test/query-tests/Security Features/CWE-798/HardcodedCredentials.cs",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/b55526aa58a5b500fe5d1be2c7edd09075711d09/csharp/ql/test/query-tests/Security%20Features/CWE-798/HardcodedCredentials.cs"
+        },
+        {
+          "path": "javascript/ql/test/library-tests/SensitiveActions/tst.js",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/5a1bf949945b1211ceb0033b560f5b0ccca8f164/javascript/ql/test/library-tests/SensitiveActions/tst.js"
+        },
+        {
+          "path": "python/ql/test/query-tests/Security/CWE-312/CleartextLogging.expected",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/cb94e7db72490aa32d5326019320a014f056101b/python/ql/test/query-tests/Security/CWE-312/CleartextLogging.expected"
+        },
+        {
+          "path": "javascript/ql/test/library-tests/frameworks/SQL/Credentials.expected",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/b55526aa58a5b500fe5d1be2c7edd09075711d09/javascript/ql/test/library-tests/frameworks/SQL/Credentials.expected"
+        },
+        {
+          "path": "csharp/ql/src/Security Features/CWE-798/HardcodedCredentials.cs",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/b55526aa58a5b500fe5d1be2c7edd09075711d09/csharp/ql/src/Security%20Features/CWE-798/HardcodedCredentials.cs"
+        },
+        {
+          "path": "csharp/ql/test/query-tests/Security Features/CWE-807/ConditionalBypass.cs",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/b55526aa58a5b500fe5d1be2c7edd09075711d09/csharp/ql/test/query-tests/Security%20Features/CWE-807/ConditionalBypass.cs"
+        },
+        {
+          "path": "cpp/ql/test/query-tests/Security/CWE/CWE-311/semmle/tests/test.cpp",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/d991fa84b163ce06491fd701ccb490d050e052ee/cpp/ql/test/query-tests/Security/CWE/CWE-311/semmle/tests/test.cpp"
+        },
+        {
+          "path": "python/ql/test/query-tests/Security/CWE-327/BrokenCryptoAlgorithm.expected",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/618a35bb7c22094724f79c8f76d3c86c67df5157/python/ql/test/query-tests/Security/CWE-327/BrokenCryptoAlgorithm.expected"
+        },
+        {
+          "path": "javascript/ql/src/semmle/javascript/security/dataflow/InsufficientPasswordHashCustomizations.qll",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/eb9d90dff6f4e3f2b291d940fe6f006fcb9f3fc1/javascript/ql/src/semmle/javascript/security/dataflow/InsufficientPasswordHashCustomizations.qll"
+        },
+        {
+          "path": "csharp/ql/test/query-tests/Security Features/CWE-312/CleartextStorage.expected",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/327ade1f34305fdec58a4bf01de1c04de7edd8d3/csharp/ql/test/query-tests/Security%20Features/CWE-312/CleartextStorage.expected"
+        },
+        {
+          "path": "javascript/ql/test/query-tests/Security/CWE-201/PostMessageStar.expected",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/2a3980222b27344105a8c67ed9fd8cc3f45020b7/javascript/ql/test/query-tests/Security/CWE-201/PostMessageStar.expected"
+        },
+        {
+          "path": "javascript/ql/src/semmle/javascript/security/dataflow/CleartextLoggingCustomizations.qll",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/6c2842bd49bfb216b55aa5393ece566eb807c1ea/javascript/ql/src/semmle/javascript/security/dataflow/CleartextLoggingCustomizations.qll"
+        },
+        {
+          "path": "java/ql/test/query-tests/security/CWE-798/semmle/tests/Test.java",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/d9bc07cb912e8acfaec273f43e6dcfa3230c463d/java/ql/test/query-tests/security/CWE-798/semmle/tests/Test.java"
+        },
+        {
+          "path": "java/ql/test/query-tests/security/CWE-807/semmle/tests/Test.java",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/d9bc07cb912e8acfaec273f43e6dcfa3230c463d/java/ql/test/query-tests/security/CWE-807/semmle/tests/Test.java"
+        },
+        {
+          "path": "python/ql/test/query-tests/Security/CWE-798/test.py",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/ffbb5d05296f516fb5db99ce626720df1ad0f472/python/ql/test/query-tests/Security/CWE-798/test.py"
+        },
+        {
+          "path": "javascript/ql/test/library-tests/SensitiveActions/CleartextPasswordExpr.expected",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/b55526aa58a5b500fe5d1be2c7edd09075711d09/javascript/ql/test/library-tests/SensitiveActions/CleartextPasswordExpr.expected"
+        },
+        {
+          "path": "javascript/ql/test/library-tests/SensitiveActions/SensitiveExpr.expected",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/b55526aa58a5b500fe5d1be2c7edd09075711d09/javascript/ql/test/library-tests/SensitiveActions/SensitiveExpr.expected"
+        },
+        {
+          "path": "python/ql/test/query-tests/Security/CWE-312/password_in_cookie.py",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/cb94e7db72490aa32d5326019320a014f056101b/python/ql/test/query-tests/Security/CWE-312/password_in_cookie.py"
+        },
+        {
+          "path": "csharp/ql/src/Security Features/InsecureRandomness.cs",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/b55526aa58a5b500fe5d1be2c7edd09075711d09/csharp/ql/src/Security%20Features/InsecureRandomness.cs"
+        },
+        {
+          "path": "javascript/ql/test/library-tests/SensitiveActions/DummyPasswords.ql",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/e6b748a8e76d1255a13920f16ba9c75c9adc49d9/javascript/ql/test/library-tests/SensitiveActions/DummyPasswords.ql"
+        },
+        {
+          "path": "csharp/ql/src/semmle/code/csharp/security/SensitiveActions.qll",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/338754ffdab5e5c77f4469f7178c5bc6b6abf8a7/csharp/ql/src/semmle/code/csharp/security/SensitiveActions.qll"
+        },
+        {
+          "path": "python/ql/test/query-tests/Security/CWE-312/test.py",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/a2841b42455bd221ad45e3ee6b73d0e7cf8ddaae/python/ql/test/query-tests/Security/CWE-312/test.py"
+        },
+        {
+          "path": "javascript/ql/test/query-tests/Security/CWE-338/tst.js",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/b55526aa58a5b500fe5d1be2c7edd09075711d09/javascript/ql/test/query-tests/Security/CWE-338/tst.js"
+        },
+        {
+          "path": "javascript/ql/src/Security/CWE-916/InsufficientPasswordHash.qhelp",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/c4f958d39686881dcb12ebe56ca1597c3b577340/javascript/ql/src/Security/CWE-916/InsufficientPasswordHash.qhelp"
+        },
+        {
+          "path": "javascript/ql/src/Security/CWE-313/PasswordInConfigurationFile.ql",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/e6b748a8e76d1255a13920f16ba9c75c9adc49d9/javascript/ql/src/Security/CWE-313/PasswordInConfigurationFile.ql"
+        },
+        {
+          "path": "python/ql/src/Security/CWE-798/HardcodedCredentials.py",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/aa6b89dc34cd886f5aeee53e1faa07d384924f0c/python/ql/src/Security/CWE-798/HardcodedCredentials.py"
+        },
+        {
+          "path": "javascript/ql/test/query-tests/Security/CWE-313/tst.yml",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/e6b748a8e76d1255a13920f16ba9c75c9adc49d9/javascript/ql/test/query-tests/Security/CWE-313/tst.yml"
+        },
+        {
+          "path": "javascript/ql/test/tutorials/Introducing the JavaScript libraries/query17.qll",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/94699175a40a6d89608d3de34efcae8a88e61c0c/javascript/ql/test/tutorials/Introducing%20the%20JavaScript%20libraries/query17.qll"
+        },
+        {
+          "path": "cpp/ql/src/Security/CWE/CWE-313/CleartextSqliteDatabase.c",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/b55526aa58a5b500fe5d1be2c7edd09075711d09/cpp/ql/src/Security/CWE/CWE-313/CleartextSqliteDatabase.c"
+        },
+        {
+          "path": "javascript/ql/src/semmle/javascript/security/dataflow/InsufficientPasswordHash.qll",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/50e8034b0b7c8e9270d26aa3d6b0ebe97d93e808/javascript/ql/src/semmle/javascript/security/dataflow/InsufficientPasswordHash.qll"
+        },
+        {
+          "path": "csharp/ql/test/query-tests/Security Features/CWE-312/CleartextStorage.cs",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/338754ffdab5e5c77f4469f7178c5bc6b6abf8a7/csharp/ql/test/query-tests/Security%20Features/CWE-312/CleartextStorage.cs"
+        },
+        {
+          "path": "javascript/ql/test/query-tests/Security/CWE-312/tst-angularjs.js",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/b55526aa58a5b500fe5d1be2c7edd09075711d09/javascript/ql/test/query-tests/Security/CWE-312/tst-angularjs.js"
+        },
+        {
+          "path": "csharp/ql/src/Security Features/CWE-798/HardcodedCredentials.qhelp",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/b55526aa58a5b500fe5d1be2c7edd09075711d09/csharp/ql/src/Security%20Features/CWE-798/HardcodedCredentials.qhelp"
+        },
+        {
+          "path": "python/ql/src/Security/CWE-798/HardcodedCredentials.qhelp",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/aa6b89dc34cd886f5aeee53e1faa07d384924f0c/python/ql/src/Security/CWE-798/HardcodedCredentials.qhelp"
+        },
+        {
+          "path": "javascript/ql/src/Security/CWE-916/InsufficientPasswordHash.ql",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/8b8b352439b66b07b5148e0337f1510b3eaf7627/javascript/ql/src/Security/CWE-916/InsufficientPasswordHash.ql"
+        },
+        {
+          "path": "cpp/ql/src/Security/CWE/CWE-311/CleartextStorage.c",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/b55526aa58a5b500fe5d1be2c7edd09075711d09/cpp/ql/src/Security/CWE/CWE-311/CleartextStorage.c"
+        },
+        {
+          "path": "javascript/ql/src/semmle/javascript/security/SensitiveActions.qll",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/5a1bf949945b1211ceb0033b560f5b0ccca8f164/javascript/ql/src/semmle/javascript/security/SensitiveActions.qll"
+        },
+        {
+          "path": "javascript/ql/src/Security/CWE-312/examples/CleartextStorageGood.js",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/937049e060d02c8ebeb52e0bb32f1163d857d652/javascript/ql/src/Security/CWE-312/examples/CleartextStorageGood.js"
+        },
+        {
+          "path": "javascript/ql/test/query-tests/Security/CWE-312/CleartextStorageGood.js",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/937049e060d02c8ebeb52e0bb32f1163d857d652/javascript/ql/test/query-tests/Security/CWE-312/CleartextStorageGood.js"
+        },
+        {
+          "path": "javascript/ql/test/query-tests/Security/CWE-916/tst.js",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/b55526aa58a5b500fe5d1be2c7edd09075711d09/javascript/ql/test/query-tests/Security/CWE-916/tst.js"
+        },
+        {
+          "path": "java/ql/test/query-tests/security/CWE-798/semmle/tests/User.java",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/d9bc07cb912e8acfaec273f43e6dcfa3230c463d/java/ql/test/query-tests/security/CWE-798/semmle/tests/User.java"
+        },
+        {
+          "path": "python/ql/src/Security/CWE-312/examples/password_in_cookie.py",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/a2841b42455bd221ad45e3ee6b73d0e7cf8ddaae/python/ql/src/Security/CWE-312/examples/password_in_cookie.py"
+        },
+        {
+          "path": "python/ql/test/query-tests/Security/CWE-327/TestNode.expected",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/e576395c90690349b4ff71ef3e6203818edc03b7/python/ql/test/query-tests/Security/CWE-327/TestNode.expected"
+        },
+        {
+          "path": "csharp/ql/src/Security Features/InsecureRandomness.qhelp",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/b55526aa58a5b500fe5d1be2c7edd09075711d09/csharp/ql/src/Security%20Features/InsecureRandomness.qhelp"
+        },
+        {
+          "path": "csharp/ql/test/query-tests/Security Features/CWE-201/ExposureInTransmittedData/ExposureInTransmittedData.cs",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/b55526aa58a5b500fe5d1be2c7edd09075711d09/csharp/ql/test/query-tests/Security%20Features/CWE-201/ExposureInTransmittedData/ExposureInTransmittedData.cs"
+        },
+        {
+          "path": "javascript/ql/test/query-tests/Security/CWE-640/tst.js",
+          "score": 1,
+          "url": "https://github.com/github/codeql/blob/92afcd32f89213bc65765cb39836e05c7919570f/javascript/ql/test/query-tests/Security/CWE-640/tst.js"
+        }
+      ],
+      "code": {
+        "password": 51
+      },
+      "codeCount": 1,
+      "pathCount": 51
+    },
+    "github/swordfish": {
+      "paths": [
+        {
+          "path": "app/assets/javascripts/views/item/_form.coffee",
+          "score": 1,
+          "url": "https://github.com/github/swordfish/blob/1b38b02bf1c5e980881d10b27679eed9c1a9262f/app/assets/javascripts/views/item/_form.coffee"
+        },
+        {
+          "path": "app/assets/javascripts/templates/item/edit.mustache",
+          "score": 1,
+          "url": "https://github.com/github/swordfish/blob/1b38b02bf1c5e980881d10b27679eed9c1a9262f/app/assets/javascripts/templates/item/edit.mustache"
+        },
+        {
+          "path": "app/assets/javascripts/templates/item/create.mustache",
+          "score": 1,
+          "url": "https://github.com/github/swordfish/blob/1b38b02bf1c5e980881d10b27679eed9c1a9262f/app/assets/javascripts/templates/item/create.mustache"
+        }
+      ],
+      "code": {
+        "password": 3
+      },
+      "codeCount": 1,
+      "pathCount": 3
+    },
+    "github/git-msysgit": {
+      "paths": [
+        {
+          "path": "t/lib-credential.sh",
+          "score": 1,
+          "url": "https://github.com/github/git-msysgit/blob/0fce85db5bf812147941e10c489253286bc8ed5d/t/lib-credential.sh"
+        },
+        {
+          "path": "t/t0300-credentials.sh",
+          "score": 1,
+          "url": "https://github.com/github/git-msysgit/blob/0fce85db5bf812147941e10c489253286bc8ed5d/t/t0300-credentials.sh"
+        },
+        {
+          "path": "contrib/credential/gnome-keyring/git-credential-gnome-keyring.c",
+          "score": 1,
+          "url": "https://github.com/github/git-msysgit/blob/0fce85db5bf812147941e10c489253286bc8ed5d/contrib/credential/gnome-keyring/git-credential-gnome-keyring.c"
+        },
+        {
+          "path": "contrib/credential/osxkeychain/git-credential-osxkeychain.c",
+          "score": 1,
+          "url": "https://github.com/github/git-msysgit/blob/0fce85db5bf812147941e10c489253286bc8ed5d/contrib/credential/osxkeychain/git-credential-osxkeychain.c"
+        },
+        {
+          "path": "Documentation/git-credential.txt",
+          "score": 1,
+          "url": "https://github.com/github/git-msysgit/blob/0fce85db5bf812147941e10c489253286bc8ed5d/Documentation/git-credential.txt"
+        },
+        {
+          "path": "credential.c",
+          "score": 1,
+          "url": "https://github.com/github/git-msysgit/blob/0fce85db5bf812147941e10c489253286bc8ed5d/credential.c"
+        },
+        {
+          "path": "contrib/credential/netrc/test.netrc",
+          "score": 1,
+          "url": "https://github.com/github/git-msysgit/blob/0fce85db5bf812147941e10c489253286bc8ed5d/contrib/credential/netrc/test.netrc"
+        }
+      ],
+      "code": {
+        "password": 7
+      },
+      "codeCount": 1,
+      "pathCount": 7
+    },
+    "github/loaner_automation": {
+      "paths": [
+        {
+          "path": "files/loaner_automation_ui.py",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/7a6d5f9d9acdfa7a870b14cc9b1670e26a9f5cbb/files/loaner_automation_ui.py"
+        },
+        {
+          "path": "files/Contents/Resources/test_ui.py",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/8531f48d50b3aaed8e665938a0c9c20529cb7fc4/files/Contents/Resources/test_ui.py"
+        },
+        {
+          "path": "files/Loaner.app/Contents/Resources/test_ui.py",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/8531f48d50b3aaed8e665938a0c9c20529cb7fc4/files/Loaner.app/Contents/Resources/test_ui.py"
+        },
+        {
+          "path": "files/app/dist/starter.app/Contents/Resources/test_ui.py",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/8531f48d50b3aaed8e665938a0c9c20529cb7fc4/files/app/dist/starter.app/Contents/Resources/test_ui.py"
+        },
+        {
+          "path": "files/app/test_ui.py",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/8531f48d50b3aaed8e665938a0c9c20529cb7fc4/files/app/test_ui.py"
+        },
+        {
+          "path": "files/starter.app/Contents/Resources/test_ui.py",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/8531f48d50b3aaed8e665938a0c9c20529cb7fc4/files/starter.app/Contents/Resources/test_ui.py"
+        },
+        {
+          "path": "files/test_ui.py",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/0d3cd62d208fcb71483807f4da8535b6e27706c0/files/test_ui.py"
+        },
+        {
+          "path": "files/hashing.py",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/a67350d7d080f25b11d1d442c29f82b72a80f94a/files/hashing.py"
+        },
+        {
+          "path": "files/venv/venv/lib/python3.7/site-packages/sqlalchemy/engine/url.py",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/e7020912db3a42b15df9d975eda18ffa705be619/files/venv/venv/lib/python3.7/site-packages/sqlalchemy/engine/url.py"
+        },
+        {
+          "path": "files/venv/venv/lib/python3.7/site-packages/oauthlib/oauth2/rfc6749/grant_types/resource_owner_password_credentials.py",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/e7020912db3a42b15df9d975eda18ffa705be619/files/venv/venv/lib/python3.7/site-packages/oauthlib/oauth2/rfc6749/grant_types/resource_owner_password_credentials.py"
+        },
+        {
+          "path": "files/venv/venv/lib/python3.7/site-packages/oauthlib/oauth2/rfc6749/clients/legacy_application.py",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/e7020912db3a42b15df9d975eda18ffa705be619/files/venv/venv/lib/python3.7/site-packages/oauthlib/oauth2/rfc6749/clients/legacy_application.py"
+        },
+        {
+          "path": "files/venv/venv/lib/python3.7/site-packages/pip/_vendor/requests/auth.py",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/e7020912db3a42b15df9d975eda18ffa705be619/files/venv/venv/lib/python3.7/site-packages/pip/_vendor/requests/auth.py"
+        },
+        {
+          "path": "files/venv/venv/lib/python3.7/site-packages/requests/auth.py",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/e7020912db3a42b15df9d975eda18ffa705be619/files/venv/venv/lib/python3.7/site-packages/requests/auth.py"
+        },
+        {
+          "path": "files/change_user_and_send.sh",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/a10e081a8f51f2c4a34174d3359e4bc216370e31/files/change_user_and_send.sh"
+        },
+        {
+          "path": "files/Contents/Resources/test.sh",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/8531f48d50b3aaed8e665938a0c9c20529cb7fc4/files/Contents/Resources/test.sh"
+        },
+        {
+          "path": "files/Loaner.app/Contents/Resources/test.sh",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/8531f48d50b3aaed8e665938a0c9c20529cb7fc4/files/Loaner.app/Contents/Resources/test.sh"
+        },
+        {
+          "path": "files/app/dist/starter.app/Contents/Resources/test.sh",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/8531f48d50b3aaed8e665938a0c9c20529cb7fc4/files/app/dist/starter.app/Contents/Resources/test.sh"
+        },
+        {
+          "path": "files/app/test.sh",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/8531f48d50b3aaed8e665938a0c9c20529cb7fc4/files/app/test.sh"
+        },
+        {
+          "path": "files/starter.app/Contents/Resources/test.sh",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/8531f48d50b3aaed8e665938a0c9c20529cb7fc4/files/starter.app/Contents/Resources/test.sh"
+        },
+        {
+          "path": "files/test.sh",
+          "score": 1,
+          "url": "https://github.com/github/loaner_automation/blob/0a7a8679302818afd7ba232522e477522eda20f2/files/test.sh"
+        }
+      ],
+      "code": {
+        "password": 20
+      },
+      "codeCount": 1,
+      "pathCount": 20
+    },
+    "github/VisualStudio": {
+      "paths": [
+        {
+          "path": "src/CredentialManagement/Credential.cs",
+          "score": 1,
+          "url": "https://github.com/github/VisualStudio/blob/3b49cdbd8bfdb03f2177d32df0d72cf551525198/src/CredentialManagement/Credential.cs"
+        },
+        {
+          "path": "src/GitHub.UI/Controls/SecurePasswordBox.cs",
+          "score": 1,
+          "url": "https://github.com/github/VisualStudio/blob/3b49cdbd8bfdb03f2177d32df0d72cf551525198/src/GitHub.UI/Controls/SecurePasswordBox.cs"
+        },
+        {
+          "path": "src/GitHub.App/ViewModels/Dialog/LoginTabViewModel.cs",
+          "score": 1,
+          "url": "https://github.com/github/VisualStudio/blob/e9ec1e0301f786d99c649529ced5563d470ec2ee/src/GitHub.App/ViewModels/Dialog/LoginTabViewModel.cs"
+        }
+      ],
+      "code": {
+        "password": 3
+      },
+      "codeCount": 1,
+      "pathCount": 3
+    },
+    "github/ruby-thecodeshop": {
+      "paths": [
+        {
+          "path": "test/xmlrpc/data/xml1.expected",
+          "score": 1,
+          "url": "https://github.com/github/ruby-thecodeshop/blob/4a14deea839f6e92db887b770f39d58fcea98ca1/test/xmlrpc/data/xml1.expected"
+        },
+        {
+          "path": "lib/uri/generic.rb",
+          "score": 1,
+          "url": "https://github.com/github/ruby-thecodeshop/blob/4a14deea839f6e92db887b770f39d58fcea98ca1/lib/uri/generic.rb"
+        },
+        {
+          "path": "lib/webrick/httpauth/htdigest.rb",
+          "score": 1,
+          "url": "https://github.com/github/ruby-thecodeshop/blob/4a14deea839f6e92db887b770f39d58fcea98ca1/lib/webrick/httpauth/htdigest.rb"
+        },
+        {
+          "path": "lib/webrick/httpauth/htpasswd.rb",
+          "score": 1,
+          "url": "https://github.com/github/ruby-thecodeshop/blob/4a14deea839f6e92db887b770f39d58fcea98ca1/lib/webrick/httpauth/htpasswd.rb"
+        }
+      ],
+      "code": {
+        "password": 4
+      },
+      "codeCount": 1,
+      "pathCount": 4
+    },
+    "github/linguist": {
+      "paths": [
+        {
+          "path": "samples/Prolog/admin.pl",
+          "score": 1,
+          "url": "https://github.com/github/linguist/blob/a5df9a00ab7c9828bd7038bb9f9bd5e56d325dc9/samples/Prolog/admin.pl"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "github/janky": {
+      "paths": [
+        {
+          "path": "lib/janky/github/api.rb",
+          "score": 1,
+          "url": "https://github.com/github/janky/blob/aec4e6d580d64fa3e748960da6022017335ad210/lib/janky/github/api.rb"
+        },
+        {
+          "path": "lib/janky/builder/http.rb",
+          "score": 1,
+          "url": "https://github.com/github/janky/blob/aec4e6d580d64fa3e748960da6022017335ad210/lib/janky/builder/http.rb"
+        }
+      ],
+      "code": {
+        "password": 2
+      },
+      "codeCount": 1,
+      "pathCount": 2
+    },
+    "github/octocatalog-diff": {
+      "paths": [
+        {
+          "path": "lib/octocatalog-diff/util/httparty.rb",
+          "score": 1,
+          "url": "https://github.com/github/octocatalog-diff/blob/8774031d5e312cc932cf115b577c697df0692055/lib/octocatalog-diff/util/httparty.rb"
+        },
+        {
+          "path": "lib/octocatalog-diff/cli/options/puppetdb_ssl_client_password.rb",
+          "score": 1,
+          "url": "https://github.com/github/octocatalog-diff/blob/8774031d5e312cc932cf115b577c697df0692055/lib/octocatalog-diff/cli/options/puppetdb_ssl_client_password.rb"
+        }
+      ],
+      "code": {
+        "password": 2
+      },
+      "codeCount": 1,
+      "pathCount": 2
+    },
+    "github/github-services": {
+      "paths": [
+        {
+          "path": "lib/services/icescrum.rb",
+          "score": 1,
+          "url": "https://github.com/github/github-services/blob/f9e3a6b98d76d9964a6613d581164039b8d54d89/lib/services/icescrum.rb"
+        },
+        {
+          "path": "lib/services/scrumdo.rb",
+          "score": 1,
+          "url": "https://github.com/github/github-services/blob/f9e3a6b98d76d9964a6613d581164039b8d54d89/lib/services/scrumdo.rb"
+        }
+      ],
+      "code": {
+        "password": 2
+      },
+      "codeCount": 1,
+      "pathCount": 2
+    },
+    "github/maven-plugins": {
+      "paths": [
+        {
+          "path": "github-core/src/test/java/com/github/maven/plugins/core/ClientCredentialsTest.java",
+          "score": 1,
+          "url": "https://github.com/github/maven-plugins/blob/8d6d49393d1453be709ecc4cfe87f41f2081f5c5/github-core/src/test/java/com/github/maven/plugins/core/ClientCredentialsTest.java"
+        },
+        {
+          "path": "github-site-plugin/src/site/markdown/authentication.md.vm",
+          "score": 1,
+          "url": "https://github.com/github/maven-plugins/blob/8d6d49393d1453be709ecc4cfe87f41f2081f5c5/github-site-plugin/src/site/markdown/authentication.md.vm"
+        }
+      ],
+      "code": {
+        "password": 2
+      },
+      "codeCount": 1,
+      "pathCount": 2
+    },
+    "github/developer.github.com": {
+      "paths": [
+        {
+          "path": "content/v3/enterprise/management_console.md",
+          "score": 1,
+          "url": "https://github.com/github/developer.github.com/blob/a03030dea7be744a3feff20ea29f51783f37a47f/content/v3/enterprise/management_console.md"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "github/ccql": {
+      "paths": [
+        {
+          "path": "go/cmd/ccql/main.go",
+          "score": 1,
+          "url": "https://github.com/github/ccql/blob/b2e372f00c3e756d73e9cac2ffb93b2df9919986/go/cmd/ccql/main.go"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "github/opensourcefriday": {
+      "paths": [
+        {
+          "path": "config/locales/devise.en.yml",
+          "score": 1,
+          "url": "https://github.com/github/opensourcefriday/blob/4fb435f12869d2fa0200a33e6d458de6c4f6c8a6/config/locales/devise.en.yml"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/vso-httpclient-java": {
+      "paths": [
+        {
+          "path": "Rest/alm-vss-client/src/test/java/com/microsoft/alm/client/utils/StringUtilTest.java",
+          "score": 1,
+          "url": "https://github.com/microsoft/vso-httpclient-java/blob/0c7a9b8d264231349d17d69992b78ae1bc9b2301/Rest/alm-vss-client/src/test/java/com/microsoft/alm/client/utils/StringUtilTest.java"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/InsiderDevTour18-MR": {
+      "paths": [
+        {
+          "path": "Assets/HoloToolkit/BuildAndDeploy/Editor/CertificatePasswordWindow.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/InsiderDevTour18-MR/blob/1b9743e6e88d847362800f0e741b15d3bff05a93/Assets/HoloToolkit/BuildAndDeploy/Editor/CertificatePasswordWindow.cs"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/mwt-ds": {
+      "paths": [
+        {
+          "path": "provisioning/templates/PasswordGeneratorTemplate.json",
+          "score": 1,
+          "url": "https://github.com/microsoft/mwt-ds/blob/3bcec881c4005924c493bab70b378dbb55b40b29/provisioning/templates/PasswordGeneratorTemplate.json"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/Windows-AppConsult-Samples-MixedReality": {
+      "paths": [
+        {
+          "path": "Blog-MsGraph/MsGraph.Unity/Assets/HoloToolkit/BuildAndDeploy/Editor/CertificatePasswordWindow.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/Windows-AppConsult-Samples-MixedReality/blob/c2c32508d94a0efc2056ff5791d32ea9cd507026/Blog-MsGraph/MsGraph.Unity/Assets/HoloToolkit/BuildAndDeploy/Editor/CertificatePasswordWindow.cs"
+        },
+        {
+          "path": "Blog-TwoHandManipulation/TwoHandsManipulation/Assets/HoloToolkit/BuildAndDeploy/Editor/CertificatePasswordWindow.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/Windows-AppConsult-Samples-MixedReality/blob/c2c32508d94a0efc2056ff5791d32ea9cd507026/Blog-TwoHandManipulation/TwoHandsManipulation/Assets/HoloToolkit/BuildAndDeploy/Editor/CertificatePasswordWindow.cs"
+        },
+        {
+          "path": "CreateMixedRealityAppFrom0/CreateObjectsWithMRTK/Assets/HoloToolkit/BuildAndDeploy/Editor/CertificatePasswordWindow.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/Windows-AppConsult-Samples-MixedReality/blob/c2c32508d94a0efc2056ff5791d32ea9cd507026/CreateMixedRealityAppFrom0/CreateObjectsWithMRTK/Assets/HoloToolkit/BuildAndDeploy/Editor/CertificatePasswordWindow.cs"
+        },
+        {
+          "path": "RemoteAssistSamples/CallRemoteAssistFromYourHoloLensApp/Assets/HoloToolkit/BuildAndDeploy/Editor/CertificatePasswordWindow.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/Windows-AppConsult-Samples-MixedReality/blob/da88b3842f4c4d1973074a9813b79b62a43cac24/RemoteAssistSamples/CallRemoteAssistFromYourHoloLensApp/Assets/HoloToolkit/BuildAndDeploy/Editor/CertificatePasswordWindow.cs"
+        }
+      ],
+      "code": {
+        "password": 4
+      },
+      "codeCount": 1,
+      "pathCount": 4
+    },
+    "microsoft/WinObjC": {
+      "paths": [
+        {
+          "path": "include/Platform/Universal Windows/UWP/WindowsSecurityExchangeActiveSyncProvisioning.h",
+          "score": 1,
+          "url": "https://github.com/microsoft/WinObjC/blob/7bec24671c4c18b81aaf85eff2887438f18a697c/include/Platform/Universal%20Windows/UWP/WindowsSecurityExchangeActiveSyncProvisioning.h"
+        },
+        {
+          "path": "Frameworks/Security/GenericPasswordItemHandler.mm",
+          "score": 1,
+          "url": "https://github.com/microsoft/WinObjC/blob/7bec24671c4c18b81aaf85eff2887438f18a697c/Frameworks/Security/GenericPasswordItemHandler.mm"
+        }
+      ],
+      "code": {
+        "password": 2
+      },
+      "codeCount": 1,
+      "pathCount": 2
+    },
+    "microsoft/sqltoolsservice": {
+      "paths": [
+        {
+          "path": "src/Microsoft.SqlTools.Credentials/Credentials/OSX/OSXCredentialStore.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/sqltoolsservice/blob/cc2ca4cad3108c058fdb9a3ddf9a3d9426984629/src/Microsoft.SqlTools.Credentials/Credentials/OSX/OSXCredentialStore.cs"
+        },
+        {
+          "path": "test/Microsoft.SqlTools.ServiceLayer.TestEnvConfig/SQLConnectionInstancesTemplate.xml",
+          "score": 1,
+          "url": "https://github.com/microsoft/sqltoolsservice/blob/cc2ca4cad3108c058fdb9a3ddf9a3d9426984629/test/Microsoft.SqlTools.ServiceLayer.TestEnvConfig/SQLConnectionInstancesTemplate.xml"
+        }
+      ],
+      "code": {
+        "password": 2
+      },
+      "codeCount": 1,
+      "pathCount": 2
+    },
+    "microsoft/mwt-ds-louiemart": {
+      "paths": [
+        {
+          "path": "Tests/Nop.Web.MVC.Tests/Public/Validators/Customer/ChangePasswordValidatorTests.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/mwt-ds-louiemart/blob/07a17908d8562faa8a4ffe21471dfda3da8d68b0/Tests/Nop.Web.MVC.Tests/Public/Validators/Customer/ChangePasswordValidatorTests.cs"
+        },
+        {
+          "path": "Tests/Nop.Web.MVC.Tests/Public/Validators/Customer/PasswordRecoveryConfirmValidatorTests.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/mwt-ds-louiemart/blob/07a17908d8562faa8a4ffe21471dfda3da8d68b0/Tests/Nop.Web.MVC.Tests/Public/Validators/Customer/PasswordRecoveryConfirmValidatorTests.cs"
+        },
+        {
+          "path": "Tests/Nop.Web.MVC.Tests/Public/Validators/Customer/RegisterValidatorTests.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/mwt-ds-louiemart/blob/07a17908d8562faa8a4ffe21471dfda3da8d68b0/Tests/Nop.Web.MVC.Tests/Public/Validators/Customer/RegisterValidatorTests.cs"
+        },
+        {
+          "path": "Tests/Nop.Web.MVC.Tests/Public/Validators/Install/InstallValidatorTests.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/mwt-ds-louiemart/blob/07a17908d8562faa8a4ffe21471dfda3da8d68b0/Tests/Nop.Web.MVC.Tests/Public/Validators/Install/InstallValidatorTests.cs"
+        },
+        {
+          "path": "Libraries/Nop.Services/Customers/CustomerRegistrationService.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/mwt-ds-louiemart/blob/07a17908d8562faa8a4ffe21471dfda3da8d68b0/Libraries/Nop.Services/Customers/CustomerRegistrationService.cs"
+        },
+        {
+          "path": "Presentation/Nop.Web/Views/Topic/TopicBlock.cshtml",
+          "score": 1,
+          "url": "https://github.com/microsoft/mwt-ds-louiemart/blob/07a17908d8562faa8a4ffe21471dfda3da8d68b0/Presentation/Nop.Web/Views/Topic/TopicBlock.cshtml"
+        },
+        {
+          "path": "Presentation/Nop.Web/Validators/Customer/ChangePasswordValidator.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/mwt-ds-louiemart/blob/07a17908d8562faa8a4ffe21471dfda3da8d68b0/Presentation/Nop.Web/Validators/Customer/ChangePasswordValidator.cs"
+        },
+        {
+          "path": "Presentation/Nop.Web/Validators/Customer/PasswordRecoveryConfirmValidator.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/mwt-ds-louiemart/blob/07a17908d8562faa8a4ffe21471dfda3da8d68b0/Presentation/Nop.Web/Validators/Customer/PasswordRecoveryConfirmValidator.cs"
+        }
+      ],
+      "code": {
+        "password": 8
+      },
+      "codeCount": 1,
+      "pathCount": 8
+    },
+    "microsoft/SmartHotel360-MixedReality": {
+      "paths": [
+        {
+          "path": "Unity/SmartHotel360 Facility Management/Assets/HoloToolkit/BuildAndDeploy/Editor/CertificatePasswordWindow.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/SmartHotel360-MixedReality/blob/7885f5bc6ffa16c88d7997074c61ea9f06c2fb1f/Unity/SmartHotel360%20Facility%20Management/Assets/HoloToolkit/BuildAndDeploy/Editor/CertificatePasswordWindow.cs"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/StopGuessing": {
+      "paths": [
+        {
+          "path": "PostSimulationAnalysisOldRuntime/Trial.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/StopGuessing/blob/141cecc5cf2c1762c1c2712f8fc1ed8154077290/PostSimulationAnalysisOldRuntime/Trial.cs"
+        },
+        {
+          "path": "Simulator/SimIpHistory.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/StopGuessing/blob/141cecc5cf2c1762c1c2712f8fc1ed8154077290/Simulator/SimIpHistory.cs"
+        },
+        {
+          "path": "StopGuessingTests/EncryptionUnitTest.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/StopGuessing/blob/141cecc5cf2c1762c1c2712f8fc1ed8154077290/StopGuessingTests/EncryptionUnitTest.cs"
+        },
+        {
+          "path": "StopGuessing/Controllers/UserAccountController.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/StopGuessing/blob/141cecc5cf2c1762c1c2712f8fc1ed8154077290/StopGuessing/Controllers/UserAccountController.cs"
+        },
+        {
+          "path": "StopGuessingOld/Controllers/UserAccountController.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/StopGuessing/blob/141cecc5cf2c1762c1c2712f8fc1ed8154077290/StopGuessingOld/Controllers/UserAccountController.cs"
+        },
+        {
+          "path": "StopGuessingTests/FunctionalTests.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/StopGuessing/blob/141cecc5cf2c1762c1c2712f8fc1ed8154077290/StopGuessingTests/FunctionalTests.cs"
+        },
+        {
+          "path": "PostSimulationAnalysisOldRuntime/Condition.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/StopGuessing/blob/141cecc5cf2c1762c1c2712f8fc1ed8154077290/PostSimulationAnalysisOldRuntime/Condition.cs"
+        },
+        {
+          "path": "Simulator/SimulatedLoginAttempt.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/StopGuessing/blob/141cecc5cf2c1762c1c2712f8fc1ed8154077290/Simulator/SimulatedLoginAttempt.cs"
+        },
+        {
+          "path": "Simulator/SimulatedPasswords.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/StopGuessing/blob/141cecc5cf2c1762c1c2712f8fc1ed8154077290/Simulator/SimulatedPasswords.cs"
+        }
+      ],
+      "code": {
+        "password": 9
+      },
+      "codeCount": 1,
+      "pathCount": 9
+    },
+    "microsoft/RTVS": {
+      "paths": [
+        {
+          "path": "src/Windows/R/Components/Impl/ContainerManager/Implementation/ViewModel/CreateLocalDockerViewModel.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/RTVS/blob/46a8f4579e4fd56219af3bb2cf3fd15b84464874/src/Windows/R/Components/Impl/ContainerManager/Implementation/ViewModel/CreateLocalDockerViewModel.cs"
+        },
+        {
+          "path": "src/R/Wpf/Impl/Controls/Watermark.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/RTVS/blob/46a8f4579e4fd56219af3bb2cf3fd15b84464874/src/R/Wpf/Impl/Controls/Watermark.cs"
+        }
+      ],
+      "code": {
+        "password": 2
+      },
+      "codeCount": 1,
+      "pathCount": 2
+    },
+    "microsoft/Windows-universal-samples": {
+      "paths": [
+        {
+          "path": "archived/PasswordVault/js/js/scenario1-save.js",
+          "score": 1,
+          "url": "https://github.com/microsoft/Windows-universal-samples/blob/b9b44e3c563462e760217c1edbc92d438d748336/archived/PasswordVault/js/js/scenario1-save.js"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/MixedRealityCompanionKit": {
+      "paths": [
+        {
+          "path": "LegacySpectatorView/Samples/SharedHolograms/Assets/HoloToolkit/BuildAndDeploy/Editor/CertificatePasswordWindow.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/MixedRealityCompanionKit/blob/e01d8e1bf60cd20a62e182610e8a9bfb757a7654/LegacySpectatorView/Samples/SharedHolograms/Assets/HoloToolkit/BuildAndDeploy/Editor/CertificatePasswordWindow.cs"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/MCW-Securing-PaaS": {
+      "paths": [
+        {
+          "path": "Hands-on lab/WebApp/FourthCoffeeWeb/Account/Manage.aspx",
+          "score": 1,
+          "url": "https://github.com/microsoft/MCW-Securing-PaaS/blob/57816a4cb5e2873f9ee089baab770aaa948c0a6c/Hands-on%20lab/WebApp/FourthCoffeeWeb/Account/Manage.aspx"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/sql-server-samples": {
+      "paths": [
+        {
+          "path": "samples/development-frameworks/laravel/vendor/laravel/framework/src/Illuminate/Auth/Passwords/PasswordBroker.php",
+          "score": 1,
+          "url": "https://github.com/microsoft/sql-server-samples/blob/d64fa3bfba3a78ee7368be1d3474d18cb4d44cd4/samples/development-frameworks/laravel/vendor/laravel/framework/src/Illuminate/Auth/Passwords/PasswordBroker.php"
+        },
+        {
+          "path": "samples/development-frameworks/django/bootcamp/core/forms.py",
+          "score": 1,
+          "url": "https://github.com/microsoft/sql-server-samples/blob/d64fa3bfba3a78ee7368be1d3474d18cb4d44cd4/samples/development-frameworks/django/bootcamp/core/forms.py"
+        },
+        {
+          "path": "samples/development-frameworks/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
+          "score": 1,
+          "url": "https://github.com/microsoft/sql-server-samples/blob/d64fa3bfba3a78ee7368be1d3474d18cb4d44cd4/samples/development-frameworks/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php"
+        },
+        {
+          "path": "samples/features/security/always-encrypted-with-secure-enclaves/src/ContosoClinic/Models/ManageViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/sql-server-samples/blob/5bf2a6ce034d721694b36623066a78d45b35941e/samples/features/security/always-encrypted-with-secure-enclaves/src/ContosoClinic/Models/ManageViewModels.cs"
+        },
+        {
+          "path": "samples/features/security/contoso-clinic/src/ContosoClinic/Models/ManageViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/sql-server-samples/blob/d64fa3bfba3a78ee7368be1d3474d18cb4d44cd4/samples/features/security/contoso-clinic/src/ContosoClinic/Models/ManageViewModels.cs"
+        },
+        {
+          "path": "samples/manage/azure-sql-db-elastic-pools-custom-dashboard/Contoso ShopKeeper/MonitoringWebApp/Models/ManageViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/sql-server-samples/blob/d64fa3bfba3a78ee7368be1d3474d18cb4d44cd4/samples/manage/azure-sql-db-elastic-pools-custom-dashboard/Contoso%20ShopKeeper/MonitoringWebApp/Models/ManageViewModels.cs"
+        },
+        {
+          "path": "samples/features/high availability/Linux/Ansible Playbook/README.md",
+          "score": 1,
+          "url": "https://github.com/microsoft/sql-server-samples/blob/d64fa3bfba3a78ee7368be1d3474d18cb4d44cd4/samples/features/high%20availability/Linux/Ansible%20Playbook/README.md"
+        },
+        {
+          "path": "samples/features/security/always-encrypted-with-secure-enclaves/src/ContosoClinic/Models/AccountViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/sql-server-samples/blob/5bf2a6ce034d721694b36623066a78d45b35941e/samples/features/security/always-encrypted-with-secure-enclaves/src/ContosoClinic/Models/AccountViewModels.cs"
+        },
+        {
+          "path": "samples/features/security/contoso-clinic/src/ContosoClinic/Models/AccountViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/sql-server-samples/blob/d64fa3bfba3a78ee7368be1d3474d18cb4d44cd4/samples/features/security/contoso-clinic/src/ContosoClinic/Models/AccountViewModels.cs"
+        },
+        {
+          "path": "samples/manage/azure-sql-db-elastic-pools-custom-dashboard/Contoso ShopKeeper/MonitoringWebApp/Models/AccountViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/sql-server-samples/blob/d64fa3bfba3a78ee7368be1d3474d18cb4d44cd4/samples/manage/azure-sql-db-elastic-pools-custom-dashboard/Contoso%20ShopKeeper/MonitoringWebApp/Models/AccountViewModels.cs"
+        },
+        {
+          "path": "samples/features/high availability/Linux/Ansible Playbook/library/mssql_login.py",
+          "score": 1,
+          "url": "https://github.com/microsoft/sql-server-samples/blob/d64fa3bfba3a78ee7368be1d3474d18cb4d44cd4/samples/features/high%20availability/Linux/Ansible%20Playbook/library/mssql_login.py"
+        },
+        {
+          "path": "samples/features/high availability/Linux/Ansible Playbook/roles/mssql-server-ha/tasks/main.yml",
+          "score": 1,
+          "url": "https://github.com/microsoft/sql-server-samples/blob/d64fa3bfba3a78ee7368be1d3474d18cb4d44cd4/samples/features/high%20availability/Linux/Ansible%20Playbook/roles/mssql-server-ha/tasks/main.yml"
+        }
+      ],
+      "code": {
+        "password": 12
+      },
+      "codeCount": 1,
+      "pathCount": 12
+    },
+    "microsoft/vscode-postgresql": {
+      "paths": [
+        {
+          "path": "test/connectionCredentials.test.ts",
+          "score": 1,
+          "url": "https://github.com/microsoft/vscode-postgresql/blob/fb3b2469439cf0b09a18b021c08654e4f9c7734c/test/connectionCredentials.test.ts"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/oxa-tools": {
+      "paths": [
+        {
+          "path": "playbooks/roles/edxapp/files/patches/9b1f89d19ad26625859f887b12931f4d48dd3ff0_updated.patch",
+          "score": 1,
+          "url": "https://github.com/microsoft/oxa-tools/blob/fe2a04a959d28aad06e13afa16796eccbbd4ab0b/playbooks/roles/edxapp/files/patches/9b1f89d19ad26625859f887b12931f4d48dd3ff0_updated.patch"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/VCSamples": {
+      "paths": [
+        {
+          "path": "VC2012Samples/Windows 8 samples/C++/Windows 8 app samples/EAS policies for mail clients sample (Windows 8)/C++/Scenario2.xaml.cpp",
+          "score": 1,
+          "url": "https://github.com/microsoft/VCSamples/blob/da802c2aa92a730b3da33c5957186f128709c398/VC2012Samples/Windows%208%20samples/C++/Windows%208%20app%20samples/EAS%20policies%20for%20mail%20clients%20sample%20(Windows%208)/C++/Scenario2.xaml.cpp"
+        },
+        {
+          "path": "VC2012Samples/Windows 8 samples/C++/Windows 8 app samples/EAS policies for mail clients sample (Windows 8)/C++/Scenario3.xaml.cpp",
+          "score": 1,
+          "url": "https://github.com/microsoft/VCSamples/blob/da802c2aa92a730b3da33c5957186f128709c398/VC2012Samples/Windows%208%20samples/C++/Windows%208%20app%20samples/EAS%20policies%20for%20mail%20clients%20sample%20(Windows%208)/C++/Scenario3.xaml.cpp"
+        },
+        {
+          "path": "VC2012Samples/Windows 8 samples/C++/Windows 8 app samples/Credential locker sample (Windows 8)/C++/Scenario4.xaml.cpp",
+          "score": 1,
+          "url": "https://github.com/microsoft/VCSamples/blob/da802c2aa92a730b3da33c5957186f128709c398/VC2012Samples/Windows%208%20samples/C++/Windows%208%20app%20samples/Credential%20locker%20sample%20(Windows%208)/C++/Scenario4.xaml.cpp"
+        },
+        {
+          "path": "VC2012Samples/Windows 8 samples/C++/Windows 8 app samples/Credential locker sample (Windows 8)/C++/Scenario1.xaml.cpp",
+          "score": 1,
+          "url": "https://github.com/microsoft/VCSamples/blob/da802c2aa92a730b3da33c5957186f128709c398/VC2012Samples/Windows%208%20samples/C++/Windows%208%20app%20samples/Credential%20locker%20sample%20(Windows%208)/C++/Scenario1.xaml.cpp"
+        },
+        {
+          "path": "VC2012Samples/Windows 8 samples/C++/Windows 8 app samples/Credential locker sample (Windows 8)/C++/Scenario2.xaml.cpp",
+          "score": 1,
+          "url": "https://github.com/microsoft/VCSamples/blob/da802c2aa92a730b3da33c5957186f128709c398/VC2012Samples/Windows%208%20samples/C++/Windows%208%20app%20samples/Credential%20locker%20sample%20(Windows%208)/C++/Scenario2.xaml.cpp"
+        }
+      ],
+      "code": {
+        "password": 5
+      },
+      "codeCount": 1,
+      "pathCount": 5
+    },
+    "microsoft/WindowsProtocolTestSuites": {
+      "paths": [
+        {
+          "path": "TestSuites/Kerberos/Setup/Data/ParamConfig.xml",
+          "score": 1,
+          "url": "https://github.com/microsoft/WindowsProtocolTestSuites/blob/e4f325ce2ecbdecaa1db7190c37a7941a28eb0e5/TestSuites/Kerberos/Setup/Data/ParamConfig.xml"
+        },
+        {
+          "path": "TestSuites/ADFamily/src/TestSuite/MS-SAMR/Password/SamrValidatePassword.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/WindowsProtocolTestSuites/blob/e4f325ce2ecbdecaa1db7190c37a7941a28eb0e5/TestSuites/ADFamily/src/TestSuite/MS-SAMR/Password/SamrValidatePassword.cs"
+        },
+        {
+          "path": "TestSuites/Kerberos/Setup/Scripts/ParamConfig.xml",
+          "score": 1,
+          "url": "https://github.com/microsoft/WindowsProtocolTestSuites/blob/38ad48ddec66ee2305c8690259818aaf9a6a0037/TestSuites/Kerberos/Setup/Scripts/ParamConfig.xml"
+        },
+        {
+          "path": "ProtoSDK/CryptoLib/LMHashManaged.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/WindowsProtocolTestSuites/blob/e4f325ce2ecbdecaa1db7190c37a7941a28eb0e5/ProtoSDK/CryptoLib/LMHashManaged.cs"
+        }
+      ],
+      "code": {
+        "password": 4
+      },
+      "codeCount": 1,
+      "pathCount": 4
+    },
+    "microsoft/code-challenges": {
+      "paths": [
+        {
+          "path": "Labs/Live Unit Testing, Refactoring, and Code Style/src/MvcMovie/Models/AccountViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/code-challenges/blob/0457d88692e5193a195f969ad36c3f594aae6619/Labs/Live%20Unit%20Testing,%20Refactoring,%20and%20Code%20Style/src/MvcMovie/Models/AccountViewModels.cs"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/PowerShell-DSC-for-Linux": {
+      "paths": [
+        {
+          "path": "Providers/Scripts/2.6x-2.7x/Scripts/nxUser.py",
+          "score": 1,
+          "url": "https://github.com/microsoft/PowerShell-DSC-for-Linux/blob/1db947427eca5f911c7a2b6bbb9213c9945b0110/Providers/Scripts/2.6x-2.7x/Scripts/nxUser.py"
+        },
+        {
+          "path": "Providers/Scripts/2.4x-2.5x/Scripts/nxUser.py",
+          "score": 1,
+          "url": "https://github.com/microsoft/PowerShell-DSC-for-Linux/blob/1db947427eca5f911c7a2b6bbb9213c9945b0110/Providers/Scripts/2.4x-2.5x/Scripts/nxUser.py"
+        },
+        {
+          "path": "Providers/Scripts/3.x/Scripts/nxUser.py",
+          "score": 1,
+          "url": "https://github.com/microsoft/PowerShell-DSC-for-Linux/blob/1db947427eca5f911c7a2b6bbb9213c9945b0110/Providers/Scripts/3.x/Scripts/nxUser.py"
+        }
+      ],
+      "code": {
+        "password": 3
+      },
+      "codeCount": 1,
+      "pathCount": 3
+    },
+    "microsoft/team-explorer-everywhere": {
+      "paths": [
+        {
+          "path": "source/com.microsoft.tfs.jni/native-src/unix/keychain_jni.c",
+          "score": 1,
+          "url": "https://github.com/microsoft/team-explorer-everywhere/blob/1c00be8bdc472bed88562cc6be08015d4e1a710c/source/com.microsoft.tfs.jni/native-src/unix/keychain_jni.c"
+        },
+        {
+          "path": "source/com.microsoft.tfs.jni/src/com/microsoft/tfs/jni/internal/keychain/NativeKeychain.java",
+          "score": 1,
+          "url": "https://github.com/microsoft/team-explorer-everywhere/blob/1c00be8bdc472bed88562cc6be08015d4e1a710c/source/com.microsoft.tfs.jni/src/com/microsoft/tfs/jni/internal/keychain/NativeKeychain.java"
+        },
+        {
+          "path": "source/com.microsoft.tfs.jni/src/com/microsoft/tfs/jni/Keychain.java",
+          "score": 1,
+          "url": "https://github.com/microsoft/team-explorer-everywhere/blob/1c00be8bdc472bed88562cc6be08015d4e1a710c/source/com.microsoft.tfs.jni/src/com/microsoft/tfs/jni/Keychain.java"
+        },
+        {
+          "path": "source/com.microsoft.tfs.jni/tests/com/microsoft/tfs/jni/internal/keychain/NativeKeychainTest.java",
+          "score": 1,
+          "url": "https://github.com/microsoft/team-explorer-everywhere/blob/1c00be8bdc472bed88562cc6be08015d4e1a710c/source/com.microsoft.tfs.jni/tests/com/microsoft/tfs/jni/internal/keychain/NativeKeychainTest.java"
+        }
+      ],
+      "code": {
+        "password": 4
+      },
+      "codeCount": 1,
+      "pathCount": 4
+    },
+    "microsoft/MCW-Optimized-architecture": {
+      "paths": [
+        {
+          "path": "Hands-on lab/Student Files/Contoso.Financial/Contoso.Financial.Website/Models/ManageViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/MCW-Optimized-architecture/blob/e591cd286af0aa295b0dcbcdb277b284bdd70ace/Hands-on%20lab/Student%20Files/Contoso.Financial/Contoso.Financial.Website/Models/ManageViewModels.cs"
+        },
+        {
+          "path": "Hands-on lab/Student Files/Contoso.Financial/Contoso.Financial.Website/Models/AccountViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/MCW-Optimized-architecture/blob/e591cd286af0aa295b0dcbcdb277b284bdd70ace/Hands-on%20lab/Student%20Files/Contoso.Financial/Contoso.Financial.Website/Models/AccountViewModels.cs"
+        }
+      ],
+      "code": {
+        "password": 2
+      },
+      "codeCount": 1,
+      "pathCount": 2
+    },
+    "microsoft/aad-hybrid-lab": {
+      "paths": [
+        {
+          "path": "aad-hybrid-lab/DSC/adDSC/xActiveDirectory/2.16.0.0/Tests/Unit/MSFT_xADDomainDefaultPasswordPolicy.Tests.ps1",
+          "score": 1,
+          "url": "https://github.com/microsoft/aad-hybrid-lab/blob/7091fe3dd93f76b96c293df9112a08bc206d746d/aad-hybrid-lab/DSC/adDSC/xActiveDirectory/2.16.0.0/Tests/Unit/MSFT_xADDomainDefaultPasswordPolicy.Tests.ps1"
+        },
+        {
+          "path": "aad-hybrid-lab/DSC/adDSC/xActiveDirectory/2.16.0.0/DSCResources/MSFT_xADDomainDefaultPasswordPolicy/MSFT_xADDomainDefaultPasswordPolicy.psm1",
+          "score": 1,
+          "url": "https://github.com/microsoft/aad-hybrid-lab/blob/7091fe3dd93f76b96c293df9112a08bc206d746d/aad-hybrid-lab/DSC/adDSC/xActiveDirectory/2.16.0.0/DSCResources/MSFT_xADDomainDefaultPasswordPolicy/MSFT_xADDomainDefaultPasswordPolicy.psm1"
+        }
+      ],
+      "code": {
+        "password": 2
+      },
+      "codeCount": 1,
+      "pathCount": 2
+    },
+    "microsoft/IIS.WebManager": {
+      "paths": [
+        {
+          "path": "src/app/webserver/central-certificates/central-certificate.component.ts",
+          "score": 1,
+          "url": "https://github.com/microsoft/IIS.WebManager/blob/5830b7f47fea1218b8245d660900306aac176516/src/app/webserver/central-certificates/central-certificate.component.ts"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/pai": {
+      "paths": [
+        {
+          "path": "src/webportal/src/app/user/fabric/components/CustomPassword.jsx",
+          "score": 1,
+          "url": "https://github.com/microsoft/pai/blob/9ded045f5db012cfa846d619a7893de241c07f16/src/webportal/src/app/user/fabric/components/CustomPassword.jsx"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/vscode-appcenter": {
+      "paths": [
+        {
+          "path": "src/api/appcenter/generated/models/passwordUpdateRequest.js",
+          "score": 1,
+          "url": "https://github.com/microsoft/vscode-appcenter/blob/a61a4ee2c4746254e17e167efe5c2427c2f6a78f/src/api/appcenter/generated/models/passwordUpdateRequest.js"
+        },
+        {
+          "path": "src/api/appcenter/generated/models/resetPasswordUsingTokenRequest.js",
+          "score": 1,
+          "url": "https://github.com/microsoft/vscode-appcenter/blob/a61a4ee2c4746254e17e167efe5c2427c2f6a78f/src/api/appcenter/generated/models/resetPasswordUsingTokenRequest.js"
+        }
+      ],
+      "code": {
+        "password": 2
+      },
+      "codeCount": 1,
+      "pathCount": 2
+    },
+    "microsoft/BotBuilder-Calling": {
+      "paths": [
+        {
+          "path": "CSharp/Library/Microsoft.Bot.Connector.Shared/CredentialProvider.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/BotBuilder-Calling/blob/07f66d7e43de9d4fb8ef3c31f78b9b575e3ee272/CSharp/Library/Microsoft.Bot.Connector.Shared/CredentialProvider.cs"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/microsoft-r-open": {
+      "paths": [
+        {
+          "path": "vendor/curl-7.49.1/tests/unit/unit1304.c",
+          "score": 1,
+          "url": "https://github.com/microsoft/microsoft-r-open/blob/a466211a517d281b088d3f5db859b4872383e77b/vendor/curl-7.49.1/tests/unit/unit1304.c"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/vs-diag-samples": {
+      "paths": [
+        {
+          "path": "MyShuttle/src/MyShuttle.Diagnostics.Service/Models/AccountBindingModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/vs-diag-samples/blob/6a77d239dcc03e6ea1259ec49c84211402b318c0/MyShuttle/src/MyShuttle.Diagnostics.Service/Models/AccountBindingModels.cs"
+        },
+        {
+          "path": "Project_Archive/ProjectArchive.Web/Models/AccountBindingModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/vs-diag-samples/blob/6a77d239dcc03e6ea1259ec49c84211402b318c0/Project_Archive/ProjectArchive.Web/Models/AccountBindingModels.cs"
+        },
+        {
+          "path": "MyShuttle/MyShuttle.Client.Web/Models/ManageViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/vs-diag-samples/blob/6a77d239dcc03e6ea1259ec49c84211402b318c0/MyShuttle/MyShuttle.Client.Web/Models/ManageViewModels.cs"
+        }
+      ],
+      "code": {
+        "password": 3
+      },
+      "codeCount": 1,
+      "pathCount": 3
+    },
+    "microsoft/Activate-Azure-for-DevOps": {
+      "paths": [
+        {
+          "path": "Labs/07_End_to_End_DevOps/Assets/SimpleCRM/SimpleCRM.UI.Web/Models/ManageViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/Activate-Azure-for-DevOps/blob/72994bf1d1e910f540f04d78ba4be2fa4467a567/Labs/07_End_to_End_DevOps/Assets/SimpleCRM/SimpleCRM.UI.Web/Models/ManageViewModels.cs"
+        },
+        {
+          "path": "Labs/07_End_to_End_DevOps/Assets/SimpleCRM/SimpleCRM.UI.Web/Models/AccountViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/Activate-Azure-for-DevOps/blob/72994bf1d1e910f540f04d78ba4be2fa4467a567/Labs/07_End_to_End_DevOps/Assets/SimpleCRM/SimpleCRM.UI.Web/Models/AccountViewModels.cs"
+        }
+      ],
+      "code": {
+        "password": 2
+      },
+      "codeCount": 1,
+      "pathCount": 2
+    },
+    "microsoft/vsts-build-test-samples": {
+      "paths": [
+        {
+          "path": "azure/AzureCloudServiceSDK27/WebRole1/Models/ManageViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/vsts-build-test-samples/blob/7efaf586d6fe593455b20713a5227dca10ca04a1/azure/AzureCloudServiceSDK27/WebRole1/Models/ManageViewModels.cs"
+        },
+        {
+          "path": "azure/AzureCloudServiceSDK28/WebRole1/Models/ManageViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/vsts-build-test-samples/blob/7efaf586d6fe593455b20713a5227dca10ca04a1/azure/AzureCloudServiceSDK28/WebRole1/Models/ManageViewModels.cs"
+        },
+        {
+          "path": "azure/AzureCloudServiceSDK27/WebRole1/Models/AccountViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/vsts-build-test-samples/blob/7efaf586d6fe593455b20713a5227dca10ca04a1/azure/AzureCloudServiceSDK27/WebRole1/Models/AccountViewModels.cs"
+        },
+        {
+          "path": "azure/AzureCloudServiceSDK28/WebRole1/Models/AccountViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/vsts-build-test-samples/blob/7efaf586d6fe593455b20713a5227dca10ca04a1/azure/AzureCloudServiceSDK28/WebRole1/Models/AccountViewModels.cs"
+        }
+      ],
+      "code": {
+        "password": 4
+      },
+      "codeCount": 1,
+      "pathCount": 4
+    },
+    "microsoft/Windows-classic-samples": {
+      "paths": [
+        {
+          "path": "Samples/Win7Samples/winbase/storage/EhStorEnumerator/EhStorEnumerator2/PasswordSILO.cpp",
+          "score": 1,
+          "url": "https://github.com/microsoft/Windows-classic-samples/blob/1d363ff4bd17d8e20415b92e2ee989d615cc0d91/Samples/Win7Samples/winbase/storage/EhStorEnumerator/EhStorEnumerator2/PasswordSILO.cpp"
+        },
+        {
+          "path": "Samples/Win7Samples/web/iis/filters/authfilt/db.c",
+          "score": 1,
+          "url": "https://github.com/microsoft/Windows-classic-samples/blob/1d363ff4bd17d8e20415b92e2ee989d615cc0d91/Samples/Win7Samples/web/iis/filters/authfilt/db.c"
+        },
+        {
+          "path": "Samples/Win7Samples/com/fundamentals/dcom/dcomperm/SrvcMgmt.Cpp",
+          "score": 1,
+          "url": "https://github.com/microsoft/Windows-classic-samples/blob/1d363ff4bd17d8e20415b92e2ee989d615cc0d91/Samples/Win7Samples/com/fundamentals/dcom/dcomperm/SrvcMgmt.Cpp"
+        }
+      ],
+      "code": {
+        "password": 3
+      },
+      "codeCount": 1,
+      "pathCount": 3
+    },
+    "microsoft/referencesource": {
+      "paths": [
+        {
+          "path": "System.Web.ApplicationServices/Security/MembershipUser.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/referencesource/blob/3b1eaf5203992df69de44c783a3eda37d3d4cd10/System.Web.ApplicationServices/Security/MembershipUser.cs"
+        },
+        {
+          "path": "System.Web/UI/WebControls/ChangePassword.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/referencesource/blob/3b1eaf5203992df69de44c783a3eda37d3d4cd10/System.Web/UI/WebControls/ChangePassword.cs"
+        }
+      ],
+      "code": {
+        "password": 2
+      },
+      "codeCount": 1,
+      "pathCount": 2
+    },
+    "microsoft/WhatTheHack": {
+      "paths": [
+        {
+          "path": "006-AppModernization/Student/Resources/OnPremApp/IaaS2PaaSWeb/PartsUnlimitedWebsite/Models/ManageViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/WhatTheHack/blob/88bc680482c48610ed538744181772f79d98a2fa/006-AppModernization/Student/Resources/OnPremApp/IaaS2PaaSWeb/PartsUnlimitedWebsite/Models/ManageViewModels.cs"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/federalist": {
+      "paths": [
+        {
+          "path": "test/api/unit/models/Passport.test.js",
+          "score": 1,
+          "url": "https://github.com/microsoft/federalist/blob/c8c582ae3f7591a3d65fae167cee74f1e00440b1/test/api/unit/models/Passport.test.js"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/Xaml-Controls-Gallery": {
+      "paths": [
+        {
+          "path": "XamlControlsGallery/ControlPages/PasswordBoxPage.xaml",
+          "score": 1,
+          "url": "https://github.com/microsoft/Xaml-Controls-Gallery/blob/b4fb9044cd24c4138e460c77f90b98aa57e1a80e/XamlControlsGallery/ControlPages/PasswordBoxPage.xaml"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/MixedReality213": {
+      "paths": [
+        {
+          "path": "Assets/HoloToolkit/BuildAndDeploy/Editor/CertificatePasswordWindow.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/MixedReality213/blob/b507f095f2bb8f238961cd223c0cde2be391f36e/Assets/HoloToolkit/BuildAndDeploy/Editor/CertificatePasswordWindow.cs"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/MCW-Business-continuity-and-disaster-recovery": {
+      "paths": [
+        {
+          "path": "Hands-on lab/StudentFiles/WebApp/ContosoInsurance/Models/ManageViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/MCW-Business-continuity-and-disaster-recovery/blob/66c4f7c58183f346b73f04835d4c8187d48106f5/Hands-on%20lab/StudentFiles/WebApp/ContosoInsurance/Models/ManageViewModels.cs"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/TechnicalCommunityContent": {
+      "paths": [
+        {
+          "path": "IoT/Azure Stream Analytics/Session 2 - Hands On/solutions/ATMDashboard/ATMDashboard/Models/ManageViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/TechnicalCommunityContent/blob/8b8db5bea39c240f63ca8c4d9e7129461908cb7e/IoT/Azure%20Stream%20Analytics/Session%202%20-%20Hands%20On/solutions/ATMDashboard/ATMDashboard/Models/ManageViewModels.cs"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/vsts-authentication-library-for-java": {
+      "paths": [
+        {
+          "path": "storage/src/main/java/com/microsoft/alm/storage/posix/internal/GnomeKeyringLibrary.java",
+          "score": 1,
+          "url": "https://github.com/microsoft/vsts-authentication-library-for-java/blob/5e8335b53eefc7fbfe9e268d155c9cfc40d9810e/storage/src/main/java/com/microsoft/alm/storage/posix/internal/GnomeKeyringLibrary.java"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/MIMWAL": {
+      "paths": [
+        {
+          "path": "src/WorkflowActivityLibrary/Common/PasswordGenerator.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/MIMWAL/blob/40ab6065f64a6ce19cd3a995b736abc31134aa51/src/WorkflowActivityLibrary/Common/PasswordGenerator.cs"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/PSCredentialTools": {
+      "paths": [
+        {
+          "path": "Functions/New-Password.ps1",
+          "score": 1,
+          "url": "https://github.com/microsoft/PSCredentialTools/blob/2c3f8db41d8eb110185ea59cc5b9e8719b596b57/Functions/New-Password.ps1"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/vsminecraft": {
+      "paths": [
+        {
+          "path": "minecraftpkg/MekanismModSample/src/main/java/mekanism/client/gui/GuiPasswordModify.java",
+          "score": 1,
+          "url": "https://github.com/microsoft/vsminecraft/blob/19ae7b5744bc4bb0bb890303b288af2b193f5ca4/minecraftpkg/MekanismModSample/src/main/java/mekanism/client/gui/GuiPasswordModify.java"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    },
+    "microsoft/PartsUnlimitedE2E": {
+      "paths": [
+        {
+          "path": "PartsUnlimited-aspnet45/src/PartsUnlimitedWebsite/Models/ManageViewModels.cs",
+          "score": 1,
+          "url": "https://github.com/microsoft/PartsUnlimitedE2E/blob/b5eaa596236a12599bdc1c7575f66fdd1d9991ba/PartsUnlimited-aspnet45/src/PartsUnlimitedWebsite/Models/ManageViewModels.cs"
+        }
+      ],
+      "code": {
+        "password": 1
+      },
+      "codeCount": 1,
+      "pathCount": 1
+    }
+  },
+  "code": {
+    "password": {
+      "count": 14589,
+      "repos": [
+        "microsoft/vso-httpclient-java",
+        "microsoft/InsiderDevTour18-MR",
+        "microsoft/mwt-ds",
+        "microsoft/Windows-AppConsult-Samples-MixedReality",
+        "microsoft/WinObjC",
+        "microsoft/sqltoolsservice",
+        "microsoft/mwt-ds-louiemart",
+        "microsoft/SmartHotel360-MixedReality",
+        "microsoft/StopGuessing",
+        "microsoft/RTVS",
+        "microsoft/Windows-universal-samples",
+        "microsoft/MixedRealityCompanionKit",
+        "microsoft/MCW-Securing-PaaS",
+        "microsoft/sql-server-samples",
+        "microsoft/vscode-postgresql",
+        "microsoft/oxa-tools",
+        "microsoft/VCSamples",
+        "microsoft/WindowsProtocolTestSuites",
+        "microsoft/code-challenges",
+        "microsoft/PowerShell-DSC-for-Linux",
+        "microsoft/team-explorer-everywhere",
+        "microsoft/MCW-Optimized-architecture",
+        "microsoft/aad-hybrid-lab",
+        "microsoft/IIS.WebManager",
+        "microsoft/pai",
+        "microsoft/vscode-appcenter",
+        "microsoft/BotBuilder-Calling",
+        "microsoft/microsoft-r-open",
+        "microsoft/vs-diag-samples",
+        "microsoft/Activate-Azure-for-DevOps",
+        "microsoft/vsts-build-test-samples",
+        "microsoft/Windows-classic-samples",
+        "microsoft/referencesource",
+        "microsoft/WhatTheHack",
+        "microsoft/federalist",
+        "microsoft/Xaml-Controls-Gallery",
+        "microsoft/MixedReality213",
+        "microsoft/MCW-Business-continuity-and-disaster-recovery",
+        "microsoft/TechnicalCommunityContent",
+        "microsoft/vsts-authentication-library-for-java",
+        "microsoft/MIMWAL",
+        "microsoft/PSCredentialTools",
+        "microsoft/vsminecraft",
+        "microsoft/PartsUnlimitedE2E"
+      ],
+      "repoCount": 44
+    }
+  },
+  "priority": {
+    "repos": [
+      "facebook/mysql-5.6",
+      "github/codeql",
+      "github/loaner_automation",
+      "microsoft/sql-server-samples",
+      "microsoft/StopGuessing",
+      "microsoft/mwt-ds-louiemart",
+      "github/git-msysgit",
+      "facebook/hhvm",
+      "microsoft/VCSamples",
+      "github/ruby-thecodeshop",
+      "microsoft/Windows-AppConsult-Samples-MixedReality",
+      "microsoft/WindowsProtocolTestSuites",
+      "microsoft/team-explorer-everywhere",
+      "microsoft/vsts-build-test-samples",
+      "facebook/fbthrift",
+      "github/swordfish",
+      "github/VisualStudio",
+      "microsoft/PowerShell-DSC-for-Linux",
+      "microsoft/vs-diag-samples",
+      "microsoft/Windows-classic-samples",
+      "facebook/openbmc",
+      "facebook/fresco",
+      "facebook/folly",
+      "github/janky",
+      "github/octocatalog-diff",
+      "github/github-services",
+      "github/maven-plugins",
+      "microsoft/WinObjC",
+      "microsoft/sqltoolsservice",
+      "microsoft/RTVS",
+      "microsoft/MCW-Optimized-architecture",
+      "microsoft/aad-hybrid-lab",
+      "microsoft/vscode-appcenter",
+      "microsoft/Activate-Azure-for-DevOps",
+      "microsoft/referencesource",
+      "facebook/wangle",
+      "facebook/litho",
+      "facebook/Recipes-for-AutoPkg",
+      "facebook/hermes",
+      "facebook/flipper",
+      "facebook/TextLayoutBuilder",
+      "facebook/openbmc-linux",
+      "facebook/yoga",
+      "facebook/buck",
+      "facebook/react",
+      "github/linguist",
+      "github/developer.github.com",
+      "github/ccql",
+      "github/opensourcefriday",
+      "microsoft/vso-httpclient-java",
+      "microsoft/InsiderDevTour18-MR",
+      "microsoft/mwt-ds",
+      "microsoft/SmartHotel360-MixedReality",
+      "microsoft/Windows-universal-samples",
+      "microsoft/MixedRealityCompanionKit",
+      "microsoft/MCW-Securing-PaaS",
+      "microsoft/vscode-postgresql",
+      "microsoft/oxa-tools",
+      "microsoft/code-challenges",
+      "microsoft/IIS.WebManager",
+      "microsoft/pai",
+      "microsoft/BotBuilder-Calling",
+      "microsoft/microsoft-r-open",
+      "microsoft/WhatTheHack",
+      "microsoft/federalist",
+      "microsoft/Xaml-Controls-Gallery",
+      "microsoft/MixedReality213",
+      "microsoft/MCW-Business-continuity-and-disaster-recovery",
+      "microsoft/TechnicalCommunityContent",
+      "microsoft/vsts-authentication-library-for-java",
+      "microsoft/MIMWAL",
+      "microsoft/PSCredentialTools",
+      "microsoft/vsminecraft",
+      "microsoft/PartsUnlimitedE2E"
+    ],
+    "code": [
+      "password"
+    ]
+  }
+}
