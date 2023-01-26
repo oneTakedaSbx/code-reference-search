@@ -1,0 +1,41 @@
+
+name: search
+
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Run a one-line script
+        run: echo Hello, world!
+        
+      # install packages
+      - id: install-packages
+        name: Install packages
+        run: |
+         npm install @octokit/rest
+         npm install @octokit/plugin-paginate-rest
+         npm install @octokit/core 
+
+#       - id: search
+#         name: Search
+#         run: |
+#          node .github/actions/search-repos.js
+#         env:
+#           TOKEN: ${{ secrets.PAT_TOKEN }}
+#           ORG_NAME: ${{ github.repository_owner }}
+          
+      - id: search
+        name: Search
+        run: |
+         npx .github/actions/ts-node github.ts
+        env:
+          TOKEN: ${{ secrets.PAT_TOKEN }}
+          ORG_NAME: ${{ github.repository_owner }}
