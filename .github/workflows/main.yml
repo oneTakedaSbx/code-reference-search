@@ -35,6 +35,7 @@ jobs:
       - id: search
         name: Search
         run: |
+         npm start
          npx .github/actions/ts-node github.ts
         env:
           TOKEN: ${{ secrets.PAT_TOKEN }}
