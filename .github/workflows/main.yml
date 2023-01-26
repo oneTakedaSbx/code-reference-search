@@ -36,7 +36,6 @@ jobs:
         name: Search
         run: |
          npm start
-         npx .github/actions/ts-node github.ts
         env:
           TOKEN: ${{ secrets.PAT_TOKEN }}
           ORG_NAME: ${{ github.repository_owner }}
