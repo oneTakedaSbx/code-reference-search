@@ -3,7 +3,7 @@ const axios = require("axios");
 const searchData = require("./search.json");
 
 // personal access token stored in env
-const githubReadApiKey = process.env.GITHUB_CREDENTIALS_PSW;
+const githubReadApiKey = process.env.TOKEN;
 
 const findings: any = {
   repos: {},
