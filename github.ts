@@ -231,6 +231,7 @@ async function main() {
   };
 
   let data = JSON.stringify(findings, null, 2);
+  console.log(`search results: ${data}`);
   fs.writeFileSync("output.json", data);
   console.log("Search Complete!");
 }
