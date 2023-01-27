@@ -1,6 +1,8 @@
 {
   "codeStrings": [
-    "/uses.*@/"
+    "/uses.*@/",
+    "/uses.*@1/"
+    
   ],
   "organizations": [
       "oneTakedaSbx"
