@@ -122,7 +122,7 @@ async function searchCode(codeStr: string, org?: string): Promise<SearchResults 
         .get(
           `https://api.github.com/search/code?q=${encodeURIComponent(
             codeStr
-          )}${orgStr}&per_page=100`,
+          )}${orgStr} language:YAML &per_page=100`,
           {
             validateStatus: function () {
               return true;
