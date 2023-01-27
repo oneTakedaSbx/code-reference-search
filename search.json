@@ -1,6 +1,6 @@
 {
   "codeStrings": [
-    '"@v1.0.14"'
+    "/uses.*@v1.0.14/"
   ],
   "organizations": [
       "oneTakedaSbx"
