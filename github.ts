@@ -154,6 +154,7 @@ async function searchCode(codeStr: string, org?: string): Promise<SearchResults 
 }
 
 async function processResults(results: any, codeStr: string, org?: string) {
+  console.log(`HERE`);
   console.log(`${codeStr}: ${results.items.length} - ${results.total_count}`);
   const items = results.items;
   findings.code[codeStr].count =
@@ -231,8 +232,8 @@ async function main() {
   };
 
   let data = JSON.stringify(findings, null, 2);
-  console.log(`search results: ${data}`);
-  fs.writeFileSync("output.json", data);
+  //console.log(`search results: ${data}`);
+  //fs.writeFileSync("output.json", data);
   console.log("Search Complete!");
 }
 
