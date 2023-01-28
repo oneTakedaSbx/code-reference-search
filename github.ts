@@ -138,7 +138,8 @@ async function searchCode(codeStr: string, org?: string): Promise<SearchResults 
           console.error(e);
         });
           console.log(`res.status: ${res.status}`);
-          console.log(`res.status: ${res.data.message}`);
+          console.log(`retry-after: ${parseInt(res.headers["retry-after"])}`);
+          
       if (res.status > 200) {
         console.log(res.data.message);
         const retryAfter = parseInt(res.headers["retry-after"]);
