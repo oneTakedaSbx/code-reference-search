@@ -116,7 +116,9 @@ interface SearchResults {
 async function searchCode(codeStr: string, org?: string): Promise<SearchResults | null> {
   const orgStr = org ? `+org:${org}` : "";
   const attempts = 2;
+    console.log(`HERE`);
   for (let attempt = 0; attempt < attempts; attempt++) {
+    console.log(`INSIDE`);
     try {
       const res = await axios
         .get(
@@ -135,6 +137,8 @@ async function searchCode(codeStr: string, org?: string): Promise<SearchResults 
         .catch((e: Error) => {
           console.error(e);
         });
+          console.log(`res.status: ${res.status}`);
+          console.log(`res.status: ${res.data.message}`);
       if (res.status > 200) {
         console.log(res.data.message);
         const retryAfter = parseInt(res.headers["retry-after"]);
@@ -154,7 +158,6 @@ async function searchCode(codeStr: string, org?: string): Promise<SearchResults 
 }
 
 async function processResults(results: any, codeStr: string, org?: string) {
-  console.log(`HERE`);
   console.log(`${codeStr}: ${results.items.length} - ${results.total_count}`);
   const items = results.items;
   findings.code[codeStr].count =
