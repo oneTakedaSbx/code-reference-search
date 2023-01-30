@@ -1,6 +1,7 @@
 {
   "codeStrings": [
-    "uses"
+    "actions/checkout@v1",
+    "actions/checkout@v2"
     
   ],
   "organizations": [
