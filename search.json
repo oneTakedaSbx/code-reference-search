@@ -1,6 +1,6 @@
 {
   "codeStrings": [
-    "actions/checkout@v1"
+    "set-output"
     
   ],
   "organizations": [
